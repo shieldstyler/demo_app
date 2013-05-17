@@ -26,4 +26,5 @@
 <%= link_to 'New Micropost', new_micropost_path %>
 
 <br />
-<a href="http://rocky-reaches-9845.herokuapp.com/users">See Users</a>
+<br />
+<a href="http://rocky-reaches-9845.herokuapp.com/users">Go to User List</a>
