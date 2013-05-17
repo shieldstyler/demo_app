@@ -13,7 +13,3 @@
 
 <%= link_to 'Edit', edit_user_path(@user) %> |
 <%= link_to 'Back', users_path %>
-<br/>
-<br/>
-The number at the end of the URL above is your User ID to enter along with your posts!
-
